@@ -1,0 +1,21 @@
+\documentclass[master,nofont]{thuthesis}
+% 如果要用 thufonts.def，使用 nofonts 选项
+
+\ifxetex
+  \setCJKfamilyfont{zhfs}[RawFeature={vertical:}]{FangSong}
+\else % for latex/pdflatex
+  \usepackage{CJKvert}
+\fi
+
+\begin{document}
+\cauthor{田天}
+\ctitle{基于化学反应的多功能光子晶体体系的研究}
+
+\shuji
+
+\ifxetex
+\shuji[清华大学学位论文]
+\else
+\shuji[清华大学学位\hspace{0.2em}\raisebox{8pt}{\LaTeX}\hspace{-0.25em} 论文模板 \hspace{0.1em}\raisebox{8pt}{v\version}\hspace{-0.25em} 样例]
+\fi
+\end{document}

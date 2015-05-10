@@ -1,0 +1,61 @@
+This is BibTeX, Version 0.99d (TeX Live 2014)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: TianTianMasterThesis.aux
+A level-1 auxiliary file: chapter1.aux
+A level-1 auxiliary file: chapter2.aux
+A level-1 auxiliary file: chapter3.aux
+A level-1 auxiliary file: chapter4.aux
+A level-1 auxiliary file: chapter5.aux
+A level-1 auxiliary file: chapter6.aux
+The style file: thubib.bst
+A level-1 auxiliary file: ack.aux
+A level-1 auxiliary file: resume.aux
+Database file #1: Refs.bib
+Warning--entry type for "Haugland1992Chemically" isn't style-file defined
+--line 2253 of file Refs.bib
+Warning--I didn't find a database entry for ""
+Warning--there's a publisher but no address in Darragh1970Opaline
+Warning--there's a number but no volume in Barltrop1965883
+Warning--there's a number but no volume in Reese1975Preparation
+You've used 160 entries,
+            2255 wiz_defined-function locations,
+            1680 strings with 48120 characters,
+and the built_in function-call counts, 85790 in all, are:
+= -- 8261
+> -- 2334
+< -- 2
++ -- 1092
+- -- 546
+* -- 7638
+:= -- 11571
+add.period$ -- 321
+call.type$ -- 160
+change.case$ -- 159
+chr.to.int$ -- 0
+cite$ -- 163
+duplicate$ -- 5774
+empty$ -- 9073
+format.name$ -- 696
+if$ -- 19301
+int.to.chr$ -- 0
+int.to.str$ -- 160
+missing$ -- 160
+newline$ -- 962
+num.names$ -- 160
+pop$ -- 545
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 1128
+stack$ -- 0
+substring$ -- 12611
+swap$ -- 21
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 3
+while$ -- 866
+width$ -- 163
+write$ -- 1917
+(There were 5 warnings)

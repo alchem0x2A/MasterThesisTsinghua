@@ -1,0 +1,73 @@
+\contentsline {chapter}{\numberline {第\nobreakspace {}1\nobreakspace {}章}引言}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}光子晶体简介}{1}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}三维光子晶体及其性质}{1}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}三维光子晶体的制备方法}{3}{subsection.1.1.2}
+\contentsline {section}{\numberline {1.2}光子晶体在传感方面的应用}{7}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}基于响应性高分子的三维光子晶体材料}{7}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}基于分子印迹的三维光子晶体材料}{8}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}基于化学反应的三维光子晶体材料}{8}{subsection.1.2.3}
+\contentsline {section}{\numberline {1.3}多层次光子晶体的制备与研究}{10}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}基于基质膨胀的光子晶体层次化技术}{11}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}基于刻蚀的光子晶体层次化技术}{12}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3}基于喷墨打印的光子晶体层次化技术}{13}{subsection.1.3.3}
+\contentsline {subsection}{\numberline {1.3.4}基于电磁场的光子晶体层次化技术}{13}{subsection.1.3.4}
+\contentsline {subsection}{\numberline {1.3.5}反蛋白石结构上层次化技术}{13}{subsection.1.3.5}
+\contentsline {section}{\numberline {1.4}本文的主要研究内容与贡献}{15}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}本文研究的目标与意义}{15}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}本论文的结构}{15}{subsection.1.4.2}
+\contentsline {chapter}{\numberline {第\nobreakspace {}2\nobreakspace {}章}SiO{\CJKfamily {zhhei}\text {$_2$}}胶体晶体模板制备}{17}{chapter.2}
+\contentsline {section}{\numberline {2.1}引言}{17}{section.2.1}
+\contentsline {section}{\numberline {2.2}实验部分}{18}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}实验材料与仪器}{18}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Stöber法生长SiO\text {$_2$}胶体颗粒的探究}{18}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}溶剂挥发诱导自组装制备SiO\text {$_2$}光子晶体模板}{21}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}逐层堆积（LbL）法制备SiO\text {$_2$}光子晶体模板}{22}{subsection.2.2.4}
+\contentsline {subsection}{\numberline {2.2.5}微流控液滴法制备SiO\text {$_2$}光子晶体模板}{26}{subsection.2.2.5}
+\contentsline {section}{\numberline {2.3}本章小结}{29}{section.2.3}
+\contentsline {chapter}{\numberline {第\nobreakspace {}3\nobreakspace {}章}基于马来酰亚胺的光子晶体乙酰胆碱酯酶活性检测的研究}{30}{chapter.3}
+\contentsline {section}{\numberline {3.1}引言}{30}{section.3.1}
+\contentsline {section}{\numberline {3.2}实验部分}{32}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}实验材料与仪器}{32}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}含马来酰亚胺的丙烯酸酯功能单体合成}{32}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}含马来酰亚胺反蛋白石光子晶体功能材料的制备}{34}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}含马来酰亚胺光子晶体对AChE的响应检测}{34}{subsection.3.2.4}
+\contentsline {section}{\numberline {3.3}结果与讨论}{35}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}含马来酰亚胺聚合物反蛋白石光子晶体的表征}{35}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}光子晶体平台对AChE的检测性能}{37}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}光子晶体平台对AChE酶动力学特性的检测}{40}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}光子晶体平台对AChE抑制剂的筛选应用}{42}{subsection.3.3.4}
+\contentsline {section}{\numberline {3.4}本章小结}{43}{section.3.4}
+\contentsline {chapter}{\numberline {第\nobreakspace {}4\nobreakspace {}章}基于光敏高分子的三维光子晶体图案化的研究}{44}{chapter.4}
+\contentsline {section}{\numberline {4.1}引言}{44}{section.4.1}
+\contentsline {section}{\numberline {4.2}实验部分}{46}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}实验材料与仪器}{46}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}相关化合物的合成}{46}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}基于光敏高分子的反蛋白石光子晶体功能材料的制备}{49}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}光敏高分子材料的表征}{50}{subsection.4.2.4}
+\contentsline {section}{\numberline {4.3}结果与讨论}{51}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}基于NVOC光敏高分子的光子晶体表征}{51}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}三维光子晶体的亲疏水梯度图案制备}{53}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}三维光子晶体的动态图案制备}{53}{subsection.4.3.3}
+\contentsline {section}{\numberline {4.4}本章小结}{56}{section.4.4}
+\contentsline {chapter}{\numberline {第\nobreakspace {}5\nobreakspace {}章}基于刻蚀-反应的光子晶体微球功能体系的研究}{57}{chapter.5}
+\contentsline {section}{\numberline {5.1}引言}{57}{section.5.1}
+\contentsline {section}{\numberline {5.2}实验部分}{59}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}实验材料与仪器}{59}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}相关化合物的合成}{59}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}利用刻蚀-反应法制备具有空间化学复杂度的光子晶体微球方法}{64}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5.2.4}光子晶体微球内三维亲疏水梯度结构的制备}{64}{subsection.5.2.4}
+\contentsline {subsection}{\numberline {5.2.5}具有正交化学活性的光子晶体微球的制备}{65}{subsection.5.2.5}
+\contentsline {subsection}{\numberline {5.2.6}光子晶体微球级联反应体系的制备}{65}{subsection.5.2.6}
+\contentsline {section}{\numberline {5.3}结果与讨论}{66}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}刻蚀-反应法制备多层结构光子晶体微球的表征}{66}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}具有三维亲疏水梯度的光子晶体微球材料及其表征}{70}{subsection.5.3.2}
+\contentsline {subsection}{\numberline {5.3.3}具有正交化学活性的光子晶体微球材料及其表征}{72}{subsection.5.3.3}
+\contentsline {subsection}{\numberline {5.3.4}级联反应的光子晶体微球材料及其表征}{74}{subsection.5.3.4}
+\contentsline {section}{\numberline {5.4}本章小结}{76}{section.5.4}
+\contentsline {chapter}{\numberline {第\nobreakspace {}6\nobreakspace {}章}总结与展望}{78}{chapter.6}
+\contentsline {section}{\numberline {6.1}本文总结}{78}{section.6.1}
+\contentsline {section}{\numberline {6.2}展望}{79}{section.6.2}
+\contentsline {chapter}{参考文献}{80}{section*.80}
+\contentsline {chapter}{致\hspace {1em}谢}{90}{section*.82}
+\contentsline {chapter}{声\hspace {1em}明}{91}{section*.84}
+\contentsline {chapter}{个人简历、在学期间发表的学术论文与研究成果}{92}{section*.86}
