@@ -1,0 +1,2 @@
+使用thuthesis模板编译，文档编码UTF-8
+请使用xelatex直接编译TEX文件夹下的TianTianMasterThesis.tex，无需xelatex+bibtex，谢谢！
